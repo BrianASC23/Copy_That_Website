@@ -1,0 +1,9 @@
+div {
+    background: black;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+
+}
